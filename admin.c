@@ -12,6 +12,6 @@ extern char *closedOrdersTxt;
 extern char *takenOrdersTxt;
 extern char *logTtxt;
 
-
+//MAMİ BUNU OKUSUN
 
 
