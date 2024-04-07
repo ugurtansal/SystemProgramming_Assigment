@@ -13,5 +13,6 @@ extern char *takenOrdersTxt;
 extern char *logTtxt;
 
 //MAMİ BUNU OKUSUN
+//ikinci comment
 
 
